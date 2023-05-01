@@ -182,7 +182,7 @@ begin
   DBMS_OUTPUT.PUT_LINE ( 's= ' || s);
 end;
 --11.Using database Student Management, write a procedure 
---to display the student’s name, street_address on the 
+--to display the studentâ€™s name, street_address on the 
 --screen. If no record in the STUDENT table 
 --corresponds to the value of student_id provided by 
 --the user, the exception NO_DATA_FOUND is raised.
@@ -209,9 +209,9 @@ END;
 
 Select * from student;
 --12.Do the question 11 using function to return the 
---student’s record (declare a rowtype variable). Write 
+--studentâ€™s record (declare a rowtype variable). Write 
 --a PL/SQL block to call this function and print out 
---student’s name, address, phone.
+--studentâ€™s name, address, phone.
 CREATE OR REPLACE FUNCTION getStu (stuId STUDENT.STUDENT_ID%TYPE)
   RETURN STUDENT%ROWTYPE
 AS
