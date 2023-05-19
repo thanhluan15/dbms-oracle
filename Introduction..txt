@@ -1,0 +1,74 @@
+astract
+-tin tức
+- model/AI
+- model/As
+
+keyword
+- predict
+-BTC, TCCA
+- Machine Learning/ Dêp Learning
+-Statistic model
+
+I) Introduction
+- lí do chọn đề tài
+3) Setting, bài báo, tin tức
+- Bài báo
++ Mục tiêu
+II) Related words research
+- 6 bài báo
+- Auths et at [1]
++ vấn đề gr?
++ thuật toán nào ?
++ kq (%) I'
++ R2
+.....
+
+III) Modeling/AIs
+- How
+- Why 
+
+IV) Method
+-Step by step
+- KN
+
+V) Thực nghiệm
+1) Dataset
++ Mô tả về Dataset
++ Thống kê mô tả
+
+          |BTC|TWTR|TSLA|
+Min       |   |    |    |
+Max       |   |    |    |
+Mean      |   |    |    |
+Histogram |   |    |    |
+Pilot     |   |    |    |
+
+2) Tool used
+- Thư viện
+- gg colab..
+- Trực quan
+
+3) Chia dataset
+- 7:2:1
+- 6:3:1
+- 5:3:2
+
+4) Evualation
+- MAE
+- RMSE
+- MAPE
+
+5) Result
+Model |  7 :  2 :  1 |
+      |MAPE|MAE |RMSE|
+LR    |    |    |    |
+2I' -> 30 days
+     train | test | validate | 30 days
+BTC
+=> btc => I'
+
+6) Visualize
+VI) Condition
+- Kết quả
+- Khó khăn
+- Future
